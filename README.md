@@ -1,6 +1,6 @@
 # Network-Analysis
 
-Analysing social media network by using NetworkX library in Python and CrowdTangle's dataset
+Analysing social media networks by using NetworkX library in Python and social media datasets from Facebook. 
 
 **Contents**
 
